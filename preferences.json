@@ -1,10 +1,7 @@
 {
-        "category": "preferences",
-        {
-                "film": "Spider man",
-                "series": "Friends",
-                "food": "Meat",
-                "season": "Summer",
-                "counrty": "Korea"
-        }
+	"film": "Spider man",
+        "series": "Friends",
+        "food": "Meat",
+        "season": "Summer",
+        "counrty": "Korea"
 }

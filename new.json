@@ -1,6 +1,7 @@
 {
-        "name": "Kseniya",
-        "age": 35,
-        "pets": 1,
-        "salary": 300000
+	"film": "Spider man",
+	"series": "Friends",
+	"food": "Meat",
+	"season": "Summer",
+	"counrty": "Korea"
 }

@@ -11,8 +11,8 @@
 		"OS": "Windows 10 x64",
 		"Browser": "Google Chrome v 100.0.4896.127"
   	},
-	"Expected result": "Нажатие кнопки Поиск пвыдает результат поиска",
-	"Actual result": "Нажатие кнопки Поиск ничего не происходит",
+	"Expected result": "Нажатие кнопки Поиск выдает результат поиска",
+	"Actual result": "При нажатии кнопки Поиск ничего не происходит",
 	"Severity": "Critical",
 	"Priority": "High",
 	"Status": "Open",
